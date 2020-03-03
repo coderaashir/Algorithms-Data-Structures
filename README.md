@@ -1,7 +1,7 @@
 # Algorithms-Data-Structures
-A categorized collection of interesting problems I've solved
+A categorized collection of interesting problems I've solved.
 
-All files have a link at the top for access to the problems 
+All files have a link at the top for access to the problems.
 
 All my submissions can be found at different competitive programming profiles: 
 
@@ -11,4 +11,4 @@ Codechef: https://www.codechef.com/users/coderaashir
 
 Codeforces: https://codeforces.com/profile/c___a_
 
-I'll keep updating this repo as I solve more interesting problems
+I'll keep updating this repo as I solve more interesting problems.
