@@ -11,4 +11,4 @@ Codechef: https://www.codechef.com/users/coderaashir
 
 Codeforces: https://codeforces.com/profile/c___a_
 
-I'll keep updating this repo as I solve more interesting problems.
+I'll keep updating the repository as I solve more interesting problems.
